@@ -1,1 +1,6 @@
-# add the Artist class here
+class Artist
+
+  def initialize
+  
+  end
+end
